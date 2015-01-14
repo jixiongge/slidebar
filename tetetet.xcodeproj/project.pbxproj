@@ -15,6 +15,7 @@
 		1FF8BB681A6605FC004DF5A9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8BB661A6605FC004DF5A9 /* LaunchScreen.xib */; };
 		1FF8BB741A6605FC004DF5A9 /* tetetetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FF8BB731A6605FC004DF5A9 /* tetetetTests.m */; };
 		1FF8BB7F1A661412004DF5A9 /* 123.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FF8BB7E1A661412004DF5A9 /* 123.m */; };
+		1FF8BB821A66197E004DF5A9 /* twoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FF8BB811A66197E004DF5A9 /* twoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		1FF8BB731A6605FC004DF5A9 /* tetetetTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tetetetTests.m; sourceTree = "<group>"; };
 		1FF8BB7D1A661412004DF5A9 /* 123.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 123.h; sourceTree = "<group>"; };
 		1FF8BB7E1A661412004DF5A9 /* 123.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 123.m; sourceTree = "<group>"; };
+		1FF8BB801A66197E004DF5A9 /* twoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoViewController.h; sourceTree = "<group>"; };
+		1FF8BB811A66197E004DF5A9 /* twoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				1FF8BB5C1A6605FC004DF5A9 /* AppDelegate.m */,
 				1FF8BB5E1A6605FC004DF5A9 /* ViewController.h */,
 				1FF8BB5F1A6605FC004DF5A9 /* ViewController.m */,
+				1FF8BB801A66197E004DF5A9 /* twoViewController.h */,
+				1FF8BB811A66197E004DF5A9 /* twoViewController.m */,
 				1FF8BB7D1A661412004DF5A9 /* 123.h */,
 				1FF8BB7E1A661412004DF5A9 /* 123.m */,
 				1FF8BB611A6605FC004DF5A9 /* Main.storyboard */,
@@ -228,6 +233,7 @@
 				1FF8BB5D1A6605FC004DF5A9 /* AppDelegate.m in Sources */,
 				1FF8BB7F1A661412004DF5A9 /* 123.m in Sources */,
 				1FF8BB5A1A6605FC004DF5A9 /* main.m in Sources */,
+				1FF8BB821A66197E004DF5A9 /* twoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
