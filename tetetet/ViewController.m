@@ -19,6 +19,7 @@
     [NSString stringWithFormat:@"a"];
     NSLog(@"1");
     NSLog(@"2");
+    NSLog(@"3");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
